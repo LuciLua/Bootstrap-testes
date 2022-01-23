@@ -1,0 +1,36 @@
+Arguments: 
+  D:\Pasta Principal\Programas\Instalacao\nodejs\node.exe C:\Users\Windows\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Program Files\Eclipse Adoptium\jre-8.0.312.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64_win\compiler;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\dotnet\;D:\Pasta Principal\Programas\Instalacao\GPG\Instalacao\Gpg4win\..\GnuPG\bin;C:\Program Files\Git\cmd;C:\Users\Windows\AppData\Local\Programs\Python\Python39;C:\Program Files\MongoDB\Server\4.4\bin;D:\Pasta Principal\Programas\Instalacao\Putty\;D:\Pasta Principal\Programas\Instalacao\lua\lua;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;D:\Pasta Principal\Programas\Instalacao\nodejs\;C:\commands;D:\Pasta Principal\Programas\Instalacao\Vim\vim82;C:\ProgramData\chocolatey\bin;C:\Users\Windows\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.9_qbz5n2kfra8p0\LocalCache\local-packages\Python39\Scripts;C:\Users\Windows\AppData\Local\Programs\Python\Python39\;C:\Users\Windows\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\Windows\AppData\Local\Microsoft\WindowsApps;C:\Users\Windows\.dotnet\tools;D:\Pasta Principal\Programas\Instalacao\nmap;C:\Users\Windows\AppData\Local\hyper\app-3.0.2\resources\bin;C:\Users\Windows\AppData\Local\Programs\Microsoft VS Code\bin;D:\Pasta Principal\Programas\Instalacao\VSCodeUserSetup-x64-1.40.1\Microsoft VS Code\bin;D:\Pasta Principal\Programas\Instalacao\VSCode\Microsoft VS Code\bin;D:\Pasta Principal\Programas\Instalacao\HerokuCLI\heroku\bin;C:\Users\Windows\AppData\Roaming\npm;C:\tools\neovim\Neovim\bin
+
+Yarn version: 
+  1.22.17
+
+Node version: 
+  14.17.6
+
+Platform: 
+  win32 x64
+
+Trace: 
+  Error: canceled
+      at Interface.<anonymous> (C:\Users\Windows\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:137143:13)
+      at Interface.emit (events.js:400:28)
+      at Interface._ttyWrite (readline.js:910:16)
+      at ReadStream.onkeypress (readline.js:235:10)
+      at ReadStream.emit (events.js:400:28)
+      at emitKeys (internal/readline/utils.js:358:14)
+      at emitKeys.next (<anonymous>)
+      at ReadStream.onData (readline.js:1179:36)
+      at ReadStream.emit (events.js:400:28)
+      at addChunk (internal/streams/readable.js:290:12)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
